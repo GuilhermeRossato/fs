@@ -1,0 +1,15 @@
+{
+  "name": "js-fs",
+  "type": "module",
+  "description": "Javascript utility to handle file system operations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ts-node test/bootstrap.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {}
+}
